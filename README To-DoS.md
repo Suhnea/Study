@@ -32,7 +32,7 @@
 3. Запустите программу, выполнив команду:
 
    ```bash
-   python task_manager.py
+   python to-dos.py
 
 ---
 
